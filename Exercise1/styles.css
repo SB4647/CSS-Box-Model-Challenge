@@ -1,0 +1,28 @@
+*{
+
+    margin:auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-outer{
+    padding: 20px 5px;
+    border:3px solid orange;
+    background-color: green;
+    width: 500px;
+}
+
+
+.card-inner{
+    padding: 20px 5px;
+    border:3px solid orange;
+    background-color: purple;
+}
+
+
+p{
+    margin-left: 30px;
+}
+
+
+
+
